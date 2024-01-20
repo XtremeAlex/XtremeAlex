@@ -1,8 +1,10 @@
 # Hello there 👋
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=XtremeAlex.XtremeAlex)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badges)
 
 ## 📝 Blogs
+
 - Personal website and blog: https://xtremealex.github.io/
 
 - ## 🔧 Technologies & Tools
@@ -15,6 +17,7 @@
 ![Postgres](https://img.shields.io/badge/Database-Postgres-informational?style=flat&logo=amazon-postgres&logoColor=white&color=6aa6f8)
 
 **Programming Languages:**
+
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![Swift](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=6aa6f8)
