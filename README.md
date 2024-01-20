@@ -7,7 +7,7 @@
 
 - Personal website and blog: https://xtremealex.github.io/
 
-- ## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 
 **Cloud Services:**
 
