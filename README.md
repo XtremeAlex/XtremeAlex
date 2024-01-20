@@ -12,7 +12,7 @@
 **Cloud Services:**
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
+![WSO2 API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
 ![Oracle](https://img.shields.io/badge/Database-Oracle-informational?style=flat&logo=amazon-oracle&logoColor=white&color=6aa6f8)
 ![Postgres](https://img.shields.io/badge/Database-Postgres-informational?style=flat&logo=amazon-postgres&logoColor=white&color=6aa6f8)
 
