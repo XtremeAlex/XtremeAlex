@@ -25,6 +25,23 @@
 
 **Tools and Services:**
 
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![Proxmox](https://img.shields.io/badge/Tools-Proxmox-informational?style=flat&logo=amazon-cloudwatch&logoColor=white&color=6aa6f8)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+
+
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	  <li><b>OS:</b> Windows or MacOS </li>
+	    <li><b>Laptop: </b> Macbook Pro 13 M1</li>
+      <li><b>RGB Monster: </b> i7 9700k @5Ghz GTX 3080ti </li>
+  	  <li><b>Browser: </b> Firefox for life </li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> Intellij / VSCode </li>
+	</ul>
+</details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XtremeAlex&theme=highcontrast&hide_border=true)](https://github.com/XtremeAlex/github-readme-stats) |  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XtremeAlex&show_icons=true&theme=radical) 
+| ------------- | ------------- |
